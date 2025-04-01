@@ -1,4 +1,3 @@
 INDEX VERSION 1.134+/home/lucas-felipe/curso-java/.metadata/.plugins/org.eclipse.jdt.core
-3189021885.index
 900586112.index
 1865797976.index

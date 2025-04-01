@@ -12,7 +12,7 @@ public class Data {
 	
 	
 	void imprimirDataFormatada() {
-		System.out.println(obterDataFormatada());
+		System.out.printf("%d/%d/%d\n", dia, mes, ano);
 	}
 
 }
