@@ -4,13 +4,14 @@
 		<section name="VariablePage">
 		</section>
 		<section name="ConfirmationPage">
+			<item key="showAll" value="true"/>
 		</section>
 		<section name="ProgressPage">
 		</section>
 	</section>
 	<section name="org.eclipse.oomph.setup.ui.wizards.SetupWizard$Updater$2">
 		<item key="DIALOG_WIDTH" value="1206"/>
-		<item key="DIALOG_HEIGHT" value="704"/>
+		<item key="DIALOG_HEIGHT" value="739"/>
 		<item key="DIALOG_FONT_NAME" value="1|Ubuntu Sans|11.0|0|GTK|1|"/>
 	</section>
 	<section name="org.eclipse.oomph.setup.ui.LicenseDialog">
