@@ -18,17 +18,14 @@ public class Data {
 		this.mes  = mes;
 		this.ano = ano;
 	}
-
 	
 	String obterDataFormatada() {
-		final String formato = "%d/%d/%d";
-		return String.format(formato, this.dia, mes, ano);
+		return String.format("%d/%d/%d", this.dia, mes, ano);
 	}
 	
 	
 	void imprimirDataFormatada() {
 		System.out.println(this.obterDataFormatada());
 	}
-	
 
 }
