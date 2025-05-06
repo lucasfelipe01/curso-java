@@ -1,7 +1,0 @@
-package classe;
-
-public class Usuario {
-	String email;
-	String nome;
-
-}
