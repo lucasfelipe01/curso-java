@@ -7,6 +7,11 @@ public class Compra {
 	String cliente;
 	ArrayList<Item> itens = new ArrayList<Item>();
 	
+	void adicionarItem(Item item) {
+		this.itens.add(item);
+		item.compra = this;
+	}
+	
 	double obterValorTotal() {
 		double total = 0;
 		
