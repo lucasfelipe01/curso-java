@@ -1,10 +1,12 @@
 package lambdas;
 
-public class CalculoTeste2 {
+import java.util.function.BinaryOperator;
+
+public class CalculoTeste3 {
 
 	public static void main(String[] args) {
 		
-		Calculo calc = (x, y) -> {
+		BinaryOperator<Double> calc = (x, y) -> {
 			return x + y;
 		};
 		
