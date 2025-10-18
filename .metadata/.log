@@ -3183,3 +3183,98 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY ch.qos.logback.classic 1 0 2025-10-01 21:31:40.677
 !MESSAGE Logback config file: /home/lucas-felipe/curso-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-10-08 21:57:09.498 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-08 21:57:27.921
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-10-08 21:57:28.828
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (1343) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-08 21:57:32.278
+!MESSAGE Logback config file: /home/lucas-felipe/curso-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-10-17 18:14:37.668 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-17 18:15:00.996
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-10-17 18:15:01.828
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (1343) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-17 18:15:04.892
+!MESSAGE Logback config file: /home/lucas-felipe/curso-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-10-17 18:44:22.361 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-17 18:44:52.011
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-10-17 18:44:53.558
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (1343) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-10-17 18:44:59.734
+!MESSAGE Logback config file: /home/lucas-felipe/curso-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.equinox.p2.director 2 10054 2025-10-17 18:47:27.668
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.669
+!MESSAGE Software being installed: artificial_root 1.0.0.v1760737625658
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2025-10-17 18:47:27.669
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE Common EPP Bundle 4.38.0.20251009-0700 (org.eclipse.epp.package.common 4.38.0.20251009-0700)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE Common EPP Bundle 4.37.0.20250905-1455 (org.eclipse.epp.package.common 4.37.0.20250905-1455)
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2025-10-17 18:47:27.670
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE From: artificial_root 1.0.0.v1760737625658
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE To: org.eclipse.equinox.p2.iu; epp.package.java [4.37.0,4.38.0)
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2025-10-17 18:47:27.670
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE From: artificial_root 1.0.0.v1760737625658
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.epp.package.common [4.38.0,5.0.0)
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2025-10-17 18:47:27.670
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE From: Eclipse IDE for Java Developers 4.37.0.20250905-1455 (epp.package.java 4.37.0.20250905-1455)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.epp.package.common.feature.feature.group [4.37.0.20250905-1455,4.37.0.20250905-1455]
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2025-10-17 18:47:27.670
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE From: Eclipse Packaging Project Common Feature 4.37.0.20250905-1455 (org.eclipse.epp.package.common.feature.feature.group 4.37.0.20250905-1455)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2025-10-17 18:47:27.670
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.epp.package.common [4.37.0.20250905-1455,4.37.0.20250905-1455]
+
+!ENTRY org.eclipse.debug.core 4 125 2025-10-17 19:54:31.005
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.ensureOpen(BufferedInputStream.java:206)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:411)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:405)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:95)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.internalRead(OutputStreamMonitor.java:235)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:211)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
